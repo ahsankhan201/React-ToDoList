@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.todo-form{
+  width: 50%;
+  margin: 0 auto;
+  padding: 50px;
+  background-color: aquamarine;
+}
+
+.form-button{
+  margin-left: 24px;
+}
+
+.todo-list{
+  list-style: none;
+  text-align: left;
+  margin: 0 auto;
+  padding: 50px;
+  margin-top: 50px;
+  width: 50%;
+}
+
+.list-item {
+  background-color: burlywood;
+  padding: 1rem;
+  margin: 8px;
+  display: flex;
+  justify-content: space-between;
+}
+
+
